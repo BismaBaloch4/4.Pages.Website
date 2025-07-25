@@ -24,7 +24,7 @@ li {
 .box12 {
     width: 600px;
     height: 600px;
-    background-color: cadetblue;
+    background-color: rgba(43, 80, 82, 0.418);
     float: left;
     margin-left: 40px;
     border-radius: 20px;
@@ -36,4 +36,21 @@ li {
     float: left;
     margin-left: 60px;
     border-radius: 20px;
+}
+.button {
+    width: 120px;
+    height: 60px;
+    background-color: rgba(43, 80, 82, 0.418);
+    border: 3px solid black;
+    border-radius: 40px;
+    margin-top: 45%;
+    position: absolute;
+    text-align: center;
+    margin-left: 45%;
+}
+a {
+    color: black;
+    font-size: 50px;
+    text-decoration: none;
+    position: relative;
 }
