@@ -39,20 +39,3 @@ li {
     margin-left:4px;
     margin-bottom: 10px;
 }
-.button {
-    width: 120px;
-    height: 50px;
-    background-color: rgba(234, 212, 134, 0.7);
-    border: 3px solid black;
-    border-radius: 10px;
-    margin-top: 360px;
-    position: absolute;
-    text-align: center;
-    margin-left: 45%;
-}
-a {
-    color: black;
-    font-size: 50px;
-    text-decoration: none;
-    position: relative;
-}
